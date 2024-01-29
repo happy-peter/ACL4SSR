@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2024年01月29日04:05:09
-# 数量: 87962条
+# 更新: 2024年01月30日04:06:26
+# 数量: 87880条
 .0008d6ba2e.com
 .000dn.com
 .0013.cc
@@ -510,6 +510,7 @@
 .ipv4.music.163.com
 .qipt.1632j6.cn
 .163ren.com
+.ac.dun.163yun.com
 .tr.newsletter.1664france.fr
 .166br.com
 .166f.com
@@ -1230,6 +1231,7 @@
 .s.360.cn
 .s.so.360.cn
 .s.union.360.cn
+.se.360.cn
 .tf.360.cn
 .act.commercial.shouji.360.cn
 .ad.dev.360.cn
@@ -1248,6 +1250,7 @@
 .wan.360.cn
 .down.360.cn
 .sdk.look.360.cn
+.h5.mse.360.cn
 .huid.ad.360.cn
 .huodong.ios.shouji.360.cn
 .huodong.mobilem.360.cn
@@ -2474,6 +2477,7 @@
 .m.7wx8f.cn
 .7x-star.info
 .7x1u.icu
+.7x24s.com
 .7x4.fr
 .7x5.fr
 .7xixi.site
@@ -10176,6 +10180,7 @@
 .fclick.baidu.com
 .fclog.baidu.com
 .fcm.baidu.com
+.feed-image.baidu.com
 .goutong.baidu.com
 .hao123union.baidu.com
 .hijack.baidu.com
@@ -10203,6 +10208,7 @@
 .qapm.baidu.com
 .sclick.baidu.com
 .share.baidu.com
+.sjh.baidu.com
 .static1.searchbox.baidu.com
 .tcbox.baidu.com
 .techain.baidu.com
@@ -10249,6 +10255,8 @@
 .dzl.baidu.com
 .e.baidu.com
 .ers.baidu.com
+.fc3tn.baidu.com
+.fc5tn.baidu.com
 .feed.baidu.com
 .g.baidu.com
 .gimg.baidu.com
@@ -10296,6 +10304,7 @@
 .tracker.baidu.com
 .tuijian.baidu.com
 .ucstat.baidu.com
+.udpolimenew.baidu.com
 .ulic.baidu.com
 .ulog.imap.baidu.com
 .union.baidu.com
@@ -11119,6 +11128,7 @@
 .ecmb.bdimg.com
 .pups.bdimg.com
 .ecmc.bdimg.com
+.ms.bdimg.com
 .su.bdimg.com
 .bdjdhouhoipj.com
 .bdjdpyrt.xyz
@@ -12348,6 +12358,7 @@
 .analytics.bitrix.info
 .bitsinflow.com
 .bitspush.io
+.bitsumactivationserver.com
 .bittads.com
 .bitterbear.com
 .bitterlyimprovegreat.com
@@ -24734,6 +24745,7 @@
 .duoroumao.cn
 .wl.duoshitong.com
 .static.duoshuo.com
+.duote.com
 .js.duotegame.com
 .a.v.duowan.com
 .gt.duowan.com
@@ -25273,6 +25285,7 @@
 .same.eastmoney.com
 .bduserlog.eastmoney.com
 .js4.eastmoney.com
+.mobappconfig.securities.eastmoney.com
 .seniorliving.eastridgeatcutlerbay.com
 .eastrk-lg.com
 .smetrics.eastwestbank.com
@@ -33539,6 +33552,7 @@
 .adservice.google.com.hk
 .googleads-cn.com
 .googleadservices-cn.com
+.googleadservices.com
 .googleadsserving.cn
 .googleanalysis.mobi
 .googleapi.club
@@ -37814,6 +37828,8 @@
 .iarreowsca.com
 .iasbetaffiliates.com
 .sc.iasds01.com
+.iask.cn
+.iask.com.cn
 .qiyeb.iaskbus.com
 .dd.iaskgo.com
 .wneia.iaskhot.com
@@ -44589,6 +44605,7 @@
 .ywrcqa.kvue.com
 .kvxxkbmby.com
 .kw3y5otoeuniv7e9rsi.com
+.api.kwaizt.com
 .awfzfs.kwantum.nl
 .kwbmkwej.com
 .kwcmrfb.cn
@@ -45026,6 +45043,7 @@
 .h.laojiayoufang.com
 .m.laojiayoufang.com
 .laomaotao.com
+.laomaotao.net
 .bdjs.laonanren.com
 .laoosmesis.com
 .laoqu123.com
@@ -68629,6 +68647,7 @@
 .metrics.similac.com.tr
 .similarlyrelicrecovery.com
 .similarmarriage.com
+.similarweb.com
 .simility.com
 .marketing.simio.com
 .simkindisyoke.space
@@ -69313,11 +69332,13 @@
 .sm-epsilon.com
 .sm-tc.cn
 .c.sm.cn
+.huichuan.sm.cn
 .image-ad.sm.cn
 .log.m.sm.cn
 .sugs.m.sm.cn
 .dns.m.sm.cn
 .video-ad.sm.cn
+.huichuan-mc.sm.cn
 .sm2kz.net
 .sm3na.com
 .a8clk.sma-ene.jp
@@ -69976,6 +69997,7 @@
 .go.sohu.com
 .aty.sohu.com
 .pv.hd.sohu.com
+.track.sohu.com
 .vstat.my.tv.sohu.com
 .vstat.v.blog.sohu.com
 .wl.hd.sohu.com
@@ -73170,6 +73192,7 @@
 .apoll.m.taobao.com
 .audid-api.taobao.com
 .c-adash.m.taobao.com
+.click.mz.simba.taobao.com
 .click.simba.taobao.com
 .click.tz.simba.taobao.com
 .dsp.simba.taobao.com
@@ -78545,6 +78568,7 @@
 .urgefranchise.com
 .trk.urgentcomm.com
 .urgoldpie.club
+.uri6.com
 .a8.uridoki.net
 .urimnugocfr.com
 .urimtats.com
@@ -81768,6 +81792,7 @@
 .x.weather.com
 .analyse.weather.com.cn
 .ctc.weather.com.cn
+.e.weather.com.cn
 .mc.weather.com.cn
 .poster.weather.com.cn
 .swc.weather.com.cn
@@ -85033,6 +85058,7 @@
 .soagw.pw.xunlei.com
 .stat.download.xunlei.com
 .advertpay-vip-ssl.xunlei.com
+.api-shoulei-ssl.xunlei.com
 .ct.niu.xunlei.com
 .mou.niu.xunlei.com
 .scene.vip.xunlei.com
@@ -86456,6 +86482,7 @@
 .yundingjiayuan.com
 .yunenly.com
 .stat.yunfan.com
+.yunjiasu.com
 .z1.yunl1.com
 .z2.yunl1.com
 .yunliunet.com
@@ -87855,112 +87882,3 @@
 .zzyy19.top
 .zzyy20.top
 .a8.zzz-land.com
-.1377a.xyz
-.180zhengkkl.com
-.18479.pw
-.26v8aqv56.cc
-.2fzn4.xyz
-.4l7e.top
-.55001.fyi
-.5598tp.com
-.5ityx.com
-.660pxbm.top
-.6c8d.top
-.6nxdfc.top
-.737s.pw
-.7566dh1.com
-.7566dh9.com
-.7859tz10.com
-.7zz3maneujdf.me
-.8122888tp.com
-.84893573.com
-.86649334.com
-.87012670.com
-.87318.xyz
-.87336.xyz
-.87367.xyz
-.9129666tp.com
-.91pions.com
-.91polkmj.com
-.9831tc.com
-.9b3247.com
-.9pyfqzkqqwiy.me
-.aefdcxoi.com
-.awiudbyqbpo.com
-.battlekun.com
-.bc2n2q6kt.cc
-.bcydy.com
-.bk23de3dgd.cc
-.czd367.com
-.dimcxt191r.cn
-.dsawdsc.com
-.dshasdzxc.com
-.dshtyubnjgvmb.com
-.dy44.live
-.dy47.live
-.dysohvv.com
-.e61auf6t8.cc
-.evdbcnk.cn
-.f7853.com
-.fi11av37.com
-.fi11av39.com
-.fullvids.space
-.fun.360.cn
-.fz7erebwy.vip
-.g6afvmg48.cc
-.h21n.top
-.hao45.click
-.hza01.com
-.j1u9nlr3k.cc
-.j6xz0.com
-.jfm522.com
-.jlpckj.com
-.kn-wk-2.cc
-.kodje3d3d.cc
-.krb8qmdc7.cc
-.ks8kjcefx5jc.me
-.lohdnyz.cn
-.lp011.click
-.maplocatesdksnapshot.d.meituan.net
-.mjhsghnwg.xyz
-.monroe4825edcs.xyz
-.mv8l4bj34.cc
-.myehm.xyz
-.naaifood.cn
-.ndujy.xyz
-.newton5194sctf.xyz
-.nht4628c1.cc
-.nkadc.xyz
-.nmcnbgp.cn
-.ns01.fyi
-.nxnzad.com
-.ojen23sdg.cc
-.planet-vids.online
-.ptfxh.com
-.qiehdybvjm.com
-.qisaoba.com
-.qjnbdgcfax.com
-.qp89pj.com
-.qwiudbnaiio.com
-.readfar.com
-.route-stats.d.meituan.net
-.shmszv3r2.cc
-.shsunedu.com
-.sk1dupf2k.cc
-.tanju.vip
-.tczyt8.cn
-.tyrwtm.com
-.v871.cc
-.vidsmoon.online
-.vta3vy85f.cc
-.wxebdv2te.vip
-.xckj0623.com
-.xutmnla.cn
-.xygj.cc
-.y8rb4.com
-.yhfophk.com
-.yikanghuitang.cn
-.youquantao.com
-.z268.cc
-.zhjw2d2he.cc
-.zouohohnglnzh.xyz
