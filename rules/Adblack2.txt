@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2024年02月17日04:06:21
-# 数量: 94739条
+# 更新: 2024年02月19日04:06:53
+# 数量: 94740条
 .0008d6ba2e.com
 .000dn.com
 .0013.cc
@@ -91249,6 +91249,7 @@
 .stat.pandora.xiaomi.com
 .data.mistat.intl.xiaomi.com
 .admob.xiaomi.com
+.tz.sec.xiaomi.com
 .app.chat.xiaomi.net
 .sentry.d.xiaomi.net
 .ww.xiaopiaoyou.com
