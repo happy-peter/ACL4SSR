@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2024年03月02日04:07:12
-# 数量: 95616条
+# 更新: 2024年03月06日04:07:01
+# 数量: 95613条
 .0008d6ba2e.com
 .000dn.com
 .0013.cc
@@ -30846,8 +30846,6 @@
 .connect.facebook.com
 .graph-fallback.facebook.com
 .mqtt-mini.facebook.com
-.star.c10r.facebook.com
-.star.fallback.c10r.facebook.com
 .staticxx.facebook.com
 .z-m-graph.facebook.com
 .connect.facebook.net
@@ -37537,7 +37535,6 @@
 .gvkqpogjqvni.com
 .gvkzvgm.com
 .gvmojhugkiud.com
-.gvt1-cn.com
 .gvyyhjyyfdgxij.xyz
 .gvzsrqp.com
 .gw-dv.vip
