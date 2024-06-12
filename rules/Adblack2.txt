@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2024年06月11日04:07:30
-# 数量: 100319条
+# 更新: 2024年06月13日04:07:27
+# 数量: 100317条
 .0008d6ba2e.com
 .000dn.com
 .0013.cc
@@ -11079,7 +11079,6 @@
 .log.music.baidu.com
 .lxbjs.baidu.com
 .miao.baidu.com
-.mime.baidu.com
 .mine.baidu.com
 .mipengine.baidu.com
 .mobads-logs.baidu.com
@@ -12002,7 +12001,6 @@
 .mobads-pre-config.cdn.bcebos.com
 .qwe0231141.bj.bcebos.com
 .shijuezhongguo.cdn.bcebos.com
-.staticsns.cdn.bcebos.com
 .wzjs.cdn.bcebos.com
 .wzjs2.cdn.bcebos.com
 .ys2000.cdn.bcebos.com
