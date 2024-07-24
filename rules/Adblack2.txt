@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2024年07月23日04:07:53
-# 数量: 99806条
+# 更新: 2024年07月25日04:07:53
+# 数量: 99805条
 .0008d6ba2e.com
 .000dn.com
 .0013.cc
@@ -37975,7 +37975,6 @@
 .firebaselogging-pa.googleapis.com
 .firebaselogging.googleapis.com
 .imasdk.googleapis.com
-.jnn-pa.googleapis.com
 .footprints-pa.googleapis.com
 .attributiontrackingga.googlecode.com
 .myscoop-tracking.googlecode.com
