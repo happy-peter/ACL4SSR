@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2024年09月05日04:08:43
-# 数量: 98539条
+# 更新: 2024年09月07日04:08:38
+# 数量: 98538条
 .0008d6ba2e.com
 .000dn.com
 .0013.cc
@@ -78388,7 +78388,6 @@
 .pb.i.sogou.com
 .pb.sogou.com
 .pcxzo.pluto.sogou.com
-.shouji.sogou.com
 .uranus.sogou.com
 .vwhi.gou.sogou.com
 .worldwide.sogou.com
