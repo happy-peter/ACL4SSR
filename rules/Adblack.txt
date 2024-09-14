@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2024年09月14日04:08:28
-# 数量: 98269条
+# 更新: 2024年09月15日04:08:32
+# 数量: 98268条
 DOMAIN-SUFFIX,0008d6ba2e.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -472,7 +472,6 @@ DOMAIN-SUFFIX,analytics.163.com
 DOMAIN-SUFFIX,bobo.163.com
 DOMAIN-SUFFIX,channel.m.163.com
 DOMAIN-SUFFIX,clientlog.music.163.com
-DOMAIN-SUFFIX,clientlog3.music.163.com
 DOMAIN-SUFFIX,e-p4p.163.com
 DOMAIN-SUFFIX,fp-upload.dun.163.com
 DOMAIN-SUFFIX,g.163.com
