@@ -1,6 +1,6 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2024年10月29日04:09:24
+# 更新: 2024年10月31日04:09:41
 # 数量: 92887条
 .000dn.com
 .0013.cc
@@ -491,6 +491,7 @@
 .qipt.1632j6.cn
 .163ren.com
 .ac.dun.163yun.com
+.ye.dun.163yun.com
 .165tchuang.com
 .tr.newsletter.1664france.fr
 .166br.com
@@ -65731,7 +65732,6 @@
 .c.l.qq.com
 .c2.l.qq.com
 .cb.l.qq.com
-.cc.map.qq.com
 .cm.l.qq.com
 .configsvr.msf.3g.qq.com
 .download.sj.qq.com
