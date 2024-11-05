@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2024年11月05日04:09:20
-# 数量: 89572条
+# 更新: 2024年11月06日04:09:11
+# 数量: 89571条
 .000dn.com
 .0013.cc
 .s8.001fzc.com
@@ -54059,7 +54059,6 @@
 .mam6.netease.com
 .httpdns-sdk.n.netease.com
 .httpdns.n.netease.com
-.nstool.netease.com
 .info.netec.com
 .sc.neteller.com
 .netflame.cc
