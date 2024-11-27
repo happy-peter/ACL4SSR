@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2024年11月26日04:10:03
-# 数量: 91006条
+# 更新: 2024年11月28日04:10:08
+# 数量: 91007条
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
 DOMAIN-SUFFIX,s8.001fzc.com
@@ -14172,6 +14172,7 @@ DOMAIN-SUFFIX,smetrics.brewersfayre.co.uk
 DOMAIN-SUFFIX,brewingjoie.com
 DOMAIN-SUFFIX,brewsuper.com
 DOMAIN-SUFFIX,brfiles.com
+DOMAIN-SUFFIX,brg0.com
 DOMAIN-SUFFIX,health.brgeneral.org
 DOMAIN-SUFFIX,tracking.brgeneral.org
 DOMAIN-SUFFIX,securemetrics.brhome.com

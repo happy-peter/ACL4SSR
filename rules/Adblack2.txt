@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2024年11月26日04:10:03
-# 数量: 91006条
+# 更新: 2024年11月28日04:10:08
+# 数量: 91007条
 .000dn.com
 .0013.cc
 .s8.001fzc.com
@@ -14172,6 +14172,7 @@
 .brewingjoie.com
 .brewsuper.com
 .brfiles.com
+.brg0.com
 .health.brgeneral.org
 .tracking.brgeneral.org
 .securemetrics.brhome.com
