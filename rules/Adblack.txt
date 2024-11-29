@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2024年11月29日04:09:40
-# 数量: 89895条
+# 更新: 2024年11月30日04:09:44
+# 数量: 89894条
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
 DOMAIN-SUFFIX,s8.001fzc.com
@@ -8081,7 +8081,6 @@ DOMAIN-SUFFIX,securemetrics.apple.com
 DOMAIN-SUFFIX,supportmetrics.apple.com
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,widgets.itunes.apple.com
-DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,banners.itunes.apple.com
 DOMAIN-SUFFIX,fpb1.apple886.com
 DOMAIN-SUFFIX,applequan.com
