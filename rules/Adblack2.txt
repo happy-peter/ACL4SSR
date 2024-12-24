@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2024年12月23日04:08:14
-# 数量: 89424条
+# 更新: 2024年12月25日04:08:47
+# 数量: 89426条
 .t.0000o.xyz
 .000dn.com
 .0013.cc
@@ -87283,6 +87283,8 @@
 .ssh.yezijizhang.com
 .yezilm.com
 .baby.yf898.com
+.yfanads.cn
+.yfanads.com
 .e.yfano.com
 .m.yfano.com
 .yfaqgk.xyz
