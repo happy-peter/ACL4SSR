@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2025年04月14日04:09:04
-# 数量: 87570条
+# 更新: 2025年04月15日04:10:23
+# 数量: 87569条
 .000dn.com
 .0013.cc
 .s8.001fzc.com
@@ -62176,7 +62176,6 @@
 .mo.qitouch.cn
 .qituduwios.com
 .qiubang.org
-.stats.qiumibao.com
 .webstat.qiumibao.com
 .t.qiuqiuqipai.com
 .fzb01.qiushibaike.com
