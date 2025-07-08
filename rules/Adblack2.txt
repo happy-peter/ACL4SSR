@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2025年07月08日04:11:11
-# 数量: 90296条
+# 更新: 2025年07月09日04:11:04
+# 数量: 90300条
 .000dn.com
 .0013.cc
 .0019x.com
@@ -37332,8 +37332,12 @@
 .heystaks.com
 .adsfs-sdkconfig.heytapimage.com
 .img-c.heytapimage.com
-.ads.heytapmobi.com
+.adx.ads.heytapmobi.com
+.b1-data.ads.heytapmobi.com
+.stg-data.ads.heytapmobi.com
+.uapi.ads.heytapmobi.com
 .virusinfo-cloudscan-cn.heytapmobi.com
+.b2-data.ads.heytapmobi.com
 .heyyounow.my
 .heyzap.com
 .e.hf355.cn
