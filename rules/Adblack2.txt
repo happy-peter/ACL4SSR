@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2025年08月26日04:10:32
-# 数量: 87209条
+# 更新: 2025年08月27日04:10:36
+# 数量: 87208条
 .000dn.com
 .0013.cc
 .0019x.com
@@ -76614,7 +76614,6 @@
 .tuinei.com
 .tuinfra.com
 .tuipenguin.com
-.yun.tuisnake.com
 .tuite8.com
 .tuitiger.com
 .tuituigui19999.com
