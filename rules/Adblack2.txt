@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2025年09月05日04:09:50
-# 数量: 94331条
+# 更新: 2025年09月07日04:08:43
+# 数量: 94328条
 .000dn.com
 .0013.cc
 .0019x.com
@@ -37014,6 +37014,7 @@
 .gvltrklny.xyz
 .gvmajlcqbcq.xyz
 .gvrfpmnggeva.xyz
+.gvt2.com
 .gvtdzbtjjqchi.website
 .gvvedashb6.fun
 .gw-dv.vip
@@ -60395,10 +60396,6 @@
 .img.oraohui.cn
 .oraubsoux.net
 .offline-adv.oray.com
-.tk.oray.com
-.sl-tk.oray.com
-.sl-log.oray.net
-.pubsub02.oray.net
 .orb92.com
 .orbengine.com
 .orbicalrykes.com
