@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2025年09月11日04:09:35
-# 数量: 94963条
+# 更新: 2025年09月12日04:08:36
+# 数量: 94965条
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
 DOMAIN-SUFFIX,0019x.com
@@ -41108,6 +41108,7 @@ DOMAIN-SUFFIX,ieryt111.fun
 DOMAIN-SUFFIX,site.comunicaciones.iesa.es
 DOMAIN-SUFFIX,igxqyi.iese.edu
 DOMAIN-SUFFIX,iesnare.com
+DOMAIN-SUFFIX,ietheivaicai.com
 DOMAIN-SUFFIX,ietyofedinj89yewtburgh.com
 DOMAIN-SUFFIX,iewixvvsbfkwd.world
 DOMAIN-SUFFIX,iewjctcinxthi.space
@@ -57431,6 +57432,7 @@ DOMAIN-SUFFIX,links.nexttrucking.com
 DOMAIN-SUFFIX,nisaapp.nexus-dt.com
 DOMAIN-SUFFIX,nexusbloom.xyz
 DOMAIN-SUFFIX,a8clkapply.mycredit.nexuscard.co.jp
+DOMAIN-SUFFIX,nexusedgeio.com
 DOMAIN-SUFFIX,smetrics.nexusmentalhealth.com
 DOMAIN-SUFFIX,nexustwinkly.click
 DOMAIN-SUFFIX,nexx360-static.io
