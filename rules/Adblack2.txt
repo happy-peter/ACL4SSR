@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2025年09月23日04:10:34
-# 数量: 94996条
+# 更新: 2025年09月25日04:10:33
+# 数量: 94997条
 .000dn.com
 .0013.cc
 .0019x.com
@@ -61518,6 +61518,7 @@
 .u.oppomobile.com
 .adsfs-in.oppomobile.com
 .httpdns.push.oppomobile.com
+.api.open.oppomobile.com
 .opportunitysearch.net
 .opposecurves.life
 .oppositionduchess.com
