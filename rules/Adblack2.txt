@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2025年10月17日04:10:36
-# 数量: 98022条
+# 更新: 2025年10月19日04:08:55
+# 数量: 98020条
 .000dn.com
 .0013.cc
 .0019x.com
@@ -516,7 +516,6 @@
 .sadbmetrics.15kvalencia.es
 .15tianqi.com
 .16211973.xyz
-.ac.dun.163.com
 .adgeo.163.com
 .adimg.163.com
 .analytics.163.com
@@ -555,7 +554,6 @@
 .16327739.xyz
 .qipt.1632j6.cn
 .163ren.com
-.ac.dun.163yun.com
 .ye.dun.163yun.com
 .165tchuang.com
 .tr.newsletter.1664france.fr
