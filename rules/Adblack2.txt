@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2025年11月29日04:10:51
-# 数量: 97581条
+# 更新: 2025年12月01日04:10:40
+# 数量: 97584条
 .000dn.com
 .0013.cc
 .0014b04291.com
@@ -46588,6 +46588,7 @@
 .juomsawqzkdqo.space
 .juomudsjlmert.online
 .jupdyvbotqwhw.site
+.juphaufaigna.net
 .jupit.xyz
 .juponrerope.com
 .jupteshoofah.net
@@ -82547,6 +82548,7 @@
 .thinpaltrydistrust.com
 .tracking.thiomucase.es
 .thipseedsy.net
+.thirairtoaboats.net
 .third-growth.pro
 .third-tracking.com
 .thirdgas.com
@@ -91434,6 +91436,7 @@
 .uqhpej.wiberrentacar.com
 .statistics.wibiya.com
 .wicdn.cloud
+.wichoaltaisheel.net
 .wickedhumankindbarrel.com
 .wickedreports.com
 .wickedsetup.com
