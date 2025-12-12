@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2025年12月11日04:12:12
-# 数量: 97555条
+# 更新: 2025年12月13日04:11:27
+# 数量: 97554条
 .000dn.com
 .0013.cc
 .0014b04291.com
@@ -50572,7 +50572,6 @@
 .liangao.com
 .liangpinge.com
 .liangsbeflea.shop
-.dig.lianjia.com
 .lianka.cn
 .lianle.com
 .lianmeng.com
