@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2025年12月23日04:11:32
-# 数量: 100190条
+# 更新: 2025年12月24日04:11:10
+# 数量: 100192条
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
 DOMAIN-SUFFIX,0014b04291.com
@@ -80868,6 +80868,7 @@ DOMAIN-SUFFIX,statisticplatform.com
 DOMAIN-SUFFIX,statisticresearch.com
 DOMAIN-SUFFIX,statistics.ro
 DOMAIN-SUFFIX,statisticsaccent.com
+DOMAIN-SUFFIX,statisticslinks.com
 DOMAIN-SUFFIX,statisticsplatform.com
 DOMAIN-SUFFIX,statistik-gallup.net
 DOMAIN-SUFFIX,statistika.lv
@@ -82889,6 +82890,7 @@ DOMAIN-SUFFIX,pcookie.tanx.com
 DOMAIN-SUFFIX,phs.tanx.com
 DOMAIN-SUFFIX,rdstat.tanx.com
 DOMAIN-SUFFIX,toruk.tanx.com
+DOMAIN-SUFFIX,sdk-config.tanx.com
 DOMAIN-SUFFIX,tanzhen.info
 DOMAIN-SUFFIX,a6.taobanapp.com
 DOMAIN-SUFFIX,adash.m.taobao.com

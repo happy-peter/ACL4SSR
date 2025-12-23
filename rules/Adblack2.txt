@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2025年12月23日04:11:32
-# 数量: 100190条
+# 更新: 2025年12月24日04:11:10
+# 数量: 100192条
 .000dn.com
 .0013.cc
 .0014b04291.com
@@ -80868,6 +80868,7 @@
 .statisticresearch.com
 .statistics.ro
 .statisticsaccent.com
+.statisticslinks.com
 .statisticsplatform.com
 .statistik-gallup.net
 .statistika.lv
@@ -82889,6 +82890,7 @@
 .phs.tanx.com
 .rdstat.tanx.com
 .toruk.tanx.com
+.sdk-config.tanx.com
 .tanzhen.info
 .a6.taobanapp.com
 .adash.m.taobao.com
