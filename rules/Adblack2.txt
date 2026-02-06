@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2026年02月05日04:21:02
-# 数量: 102282条
+# 更新: 2026年02月07日04:20:16
+# 数量: 102281条
 .000dn.com
 .0013.cc
 .0014b04291.com
@@ -99958,7 +99958,6 @@
 .sealine.youku.com
 .store.tv.api.3g.youku.com
 .store.xl.api.3g.youku.com
-.un-acs.youku.com
 .wan.youku.com
 .yk-ssp.ad.youku.com
 .ykad-data.youku.com

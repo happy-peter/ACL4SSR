@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2026年02月05日04:21:02
-# 数量: 102282条
+# 更新: 2026年02月07日04:20:16
+# 数量: 102281条
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
 DOMAIN-SUFFIX,0014b04291.com
@@ -99958,7 +99958,6 @@ DOMAIN-SUFFIX,s.p.youku.com
 DOMAIN-SUFFIX,sealine.youku.com
 DOMAIN-SUFFIX,store.tv.api.3g.youku.com
 DOMAIN-SUFFIX,store.xl.api.3g.youku.com
-DOMAIN-SUFFIX,un-acs.youku.com
 DOMAIN-SUFFIX,wan.youku.com
 DOMAIN-SUFFIX,yk-ssp.ad.youku.com
 DOMAIN-SUFFIX,ykad-data.youku.com
