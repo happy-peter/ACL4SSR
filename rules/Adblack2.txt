@@ -1,6 +1,6 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2026年02月24日04:32:22
+# 更新: 2026年02月25日04:21:58
 # 数量: 105945条
 .000dn.com
 .0013.cc
@@ -93896,7 +93896,7 @@
 .user-clicks.com
 .user-red.com
 .userballot.com
-.usercentrics.eu
+.uct.service.usercentrics.eu
 .usercycle.com
 .userdatatrust.com
 .userdive.com
