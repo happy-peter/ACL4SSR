@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2026年04月11日04:22:43
-# 数量: 107074条
+# 更新: 2026年04月14日04:40:29
+# 数量: 107073条
 .000491b06a.com
 .000dn.com
 .0013.cc
@@ -3422,7 +3422,6 @@
 .9vviyje1s.top
 .9wad.com
 .9wdjf9va.xyz
-.9wee.com
 .p.9wotuan.com
 .9wushuo.com
 .9xeqynu3gt7c.com
