@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2026年05月05日04:56:04
-# 数量: 107470条
+# 更新: 2026年05月07日05:00:11
+# 数量: 107471条
 .000491b06a.com
 .000dn.com
 .0013.cc
@@ -5079,6 +5079,7 @@
 .trk.admtoronto.com
 .admtpmp124.com
 .admulti.com
+.adn-plus.com.cn
 .logging.pw.adn.cloud
 .tags.pw.adn.cloud
 .adnade.net
