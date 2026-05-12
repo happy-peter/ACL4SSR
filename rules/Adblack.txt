@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2026年05月11日04:35:24
-# 数量: 106457条
+# 更新: 2026年05月13日05:07:59
+# 数量: 106456条
 DOMAIN-SUFFIX,000491b06a.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
@@ -33467,7 +33467,6 @@ DOMAIN-SUFFIX,figocjidpbloj.website
 DOMAIN-SUFFIX,figpii.com
 DOMAIN-SUFFIX,figqiqdhirid.in
 DOMAIN-SUFFIX,to.figr.me
-DOMAIN-SUFFIX,figshare.com
 DOMAIN-SUFFIX,figsprotein.com
 DOMAIN-SUFFIX,figuredworrying.com
 DOMAIN-SUFFIX,figurehunter.net
