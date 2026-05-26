@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2026年05月26日04:55:18
-# 数量: 106111条
+# 更新: 2026年05月27日05:25:47
+# 数量: 106114条
 .000491b06a.com
 .000dn.com
 .0013.cc
@@ -32658,6 +32658,7 @@
 .f30fpad7.xyz
 .f34aabcc0e.com
 .f351966262.com
+.f3531.top
 .f3k194f9i7.com
 .f418509b38.com
 .f435ee855c.com
@@ -81741,6 +81742,8 @@
 .toutiao-frontier.snssdk.com
 .xlog.snssdk.com
 .gecko.snssdk.com
+.applog.snssdk.com
+.os-mon.snssdk.com
 .snsv.ru
 .snta0034.com
 .sntjim.com
