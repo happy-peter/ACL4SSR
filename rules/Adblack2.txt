@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2026年06月05日05:20:49
-# 数量: 105335条
+# 更新: 2026年06月06日05:14:40
+# 数量: 105334条
 .000491b06a.com
 .000dn.com
 .0013.cc
@@ -71778,7 +71778,6 @@
 .openmsf.3g.qq.com
 .mark.l.qq.com
 .rlog.video.qq.com
-.rdelivery.qq.com
 .aedns.weixin.qq.com
 .date.ab.qq.com
 .report.nfa.qq.com
