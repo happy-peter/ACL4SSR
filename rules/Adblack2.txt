@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2026年06月11日05:48:39
-# 数量: 103435条
+# 更新: 2026年06月12日05:52:02
+# 数量: 103434条
 .000491b06a.com
 .000dn.com
 .0013.cc
@@ -36067,7 +36067,6 @@
 .smetrics.g-shock.com
 .smetrics.g-shock.jp
 .smetrics.g-tune.jp
-.xyoss.g.com.cn
 .g0-g3t-msg.net
 .g0gr67p.de
 .g10102301085.co
