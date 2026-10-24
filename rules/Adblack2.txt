@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2026年10月23日06:49:40
-# 数量: 104448条
+# 更新: 2026年10月25日06:03:45
+# 数量: 104447条
 .000491b06a.com
 .000dn.com
 .0013.cc
@@ -47173,7 +47173,6 @@
 .t.iz55.com
 .e.izaos.com
 .m.izaos.com
-.izatcloud.net
 .izavjtqqznucm.site
 .izaybwqvajljf.space
 .izccryctmxtwb.website
