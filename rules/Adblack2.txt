@@ -1,7 +1,7 @@
 # 内容: 🚫 广告过滤 规则集
 # 备注: 以anti-AD为基础，移除自用误杀，增加自用黑名单，原作者: https://github.com/privacy-protection-tools/anti-AD
-# 更新: 2026年10月29日07:41:12
-# 数量: 100686条
+# 更新: 2026年10月31日07:20:09
+# 数量: 100682条
 .000491b06a.com
 .000dn.com
 .0013.cc
@@ -24109,7 +24109,6 @@
 .iam-rum-intake.datadoghq.com
 .logs.datadoghq.com
 .datadoghq.eu
-.datadome.co
 .adsmartget.datads.cn
 .datadsk.com
 .datafa.st
@@ -30023,7 +30022,7 @@
 .enrtx.com
 .ensealplaners.com
 .enseq50a.xyz
-.ensighten.com
+.nexus.ensighten.com
 .ensmwonhtzpdh.space
 .ensosignal.com
 .metrics.enspryng-hcp.com
@@ -36086,7 +36085,6 @@
 .xwpzlz.gemimarket.it
 .geminisailingzillion.com
 .cmp.gemius.com
-.gemius.pl
 .gemlithium.com
 .ovrsso.gemo.fr
 .gemorganic.com
@@ -52114,7 +52112,6 @@
 .scdn.literatur-couch.de
 .stats.literaturkreis.online
 .ini.litingxin.cn
-.litix.io
 .link.litnet.com
 .litpzshqdkjvn.online
 .litrujsxxymfn.website
@@ -63059,7 +63056,6 @@
 .omshedinjaor.com
 .d.omsnative.de
 .omswwmgtqwekb.space
-.omtrdc.net
 .omwvapmytccsc.online
 .omwvtaafvqa.in
 .omxpiremgszzv.space
@@ -66836,7 +66832,6 @@
 .placidityelite.com
 .placiditylever.com
 .placidperson.com
-.pladform.ru
 .hsvrww.plain-me.com
 .plain-plane.com
 .plaincapsize.com
@@ -76040,7 +76035,8 @@
 .a8clk.segatoys.com
 .nossl.segfault.net
 .stat.segitek.hu
-.segment.com
+.cdn-settings.segment.com
+.mobile-service.segment.com
 .segment.io
 .segmenthub.com
 .segmentify.com
